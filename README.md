@@ -9,6 +9,9 @@ Dans la nuit du 16 au 17 juillet 1976, une équipe de cambrioleurs pénètre dan
 
 Albert Spaggiari est un ancien combattant d'Indochine qui tient alors un petit magasin de développement photographique à Nice [2]. Il imagine un plan fondé sur une particularité du site : l'agence bancaire se trouve à proximité immédiate du réseau d'égouts de la ville [3].
 
+![L'avenue Jean-Médecin à Nice, où se trouve l'agence de la Société Générale](https://commons.wikimedia.org/wiki/Special:FilePath/Avenue_Jean-M%C3%A9decin,_Nice,_Provence-Alpes-C%C3%B4te_d%27Azur,_France_-_panoramio.jpg?width=800 "L'avenue Jean-Médecin à Nice")
+
+
 Avec son équipe, il creuse un tunnel d'environ huit mètres reliant les égouts à la salle des coffres [4]. Les sources divergent sur la durée des travaux : deux mois pour certaines, trois mois pour d'autres. Le week-end du 17 au 18 juillet 1976, la banque étant fermée, l'équipe accède enfin à la salle des coffres [6].
 
 ## 2. Le casse et la découverte des faits
