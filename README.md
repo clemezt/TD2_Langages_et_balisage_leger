@@ -28,6 +28,8 @@ L'enquête progresse grâce à une erreur d'un des membres du gang : un artisan 
 
 Le 10 mars 1977, Spaggiari est conduit dans le bureau du juge d'instruction, au palais de justice de Nice. Alors que le magistrat examine un document présenté comme une preuve, le prisonnier s'approche de la fenêtre, l'ouvre et saute. Il atterrit sur le toit d'une voiture garée plusieurs mètres plus bas, puis enfourche la moto d'un complice qui l'attend [4][5]. Il quitte les lieux sans être rattrapé.
 
+![Le palais de justice de Nice](https://commons.wikimedia.org/wiki/Special:FilePath/Nice_France_Palais_de_Justice.jpg?width=500 "Le palais de justice de Nice")
+
 ## 5. La cavale et l'héritage de l'affaire
 
 Spaggiari ne sera jamais repris par la police française. Il vit en cavale jusqu'à sa mort en 1989 ; son corps est retrouvé le 10 juin devant la maison de sa mère, à Hyères [5]. Il laisse un livre, *Les égouts du paradis*, qui a inspiré plusieurs adaptations au cinéma [1].
