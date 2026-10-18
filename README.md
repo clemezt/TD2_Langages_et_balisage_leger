@@ -41,14 +41,11 @@ Certaines données varient selon les sources, notamment le montant exact du buti
 
 ## Sources
 
+## Sources
+
 1. <https://www.moneyvox.fr/banque/actualites/83225/video-braquage-de-banque-ces-5-casses-qui-ont-marque-histoire>
 2. <https://www.tendanceouest.com/actualite-262655-plus-de-40-ans-apres-le-magot-du-casse-du-siecle-a-portee-des-juges>
 3. <https://www.dhnet.be/actu/monde/2014/03/18/france-une-banque-devalisee-en-creusant-un-tunnel-6F3NTAEJXFHU5JNRUWK765FXWY/>
 4. <https://www.larousse.fr/archives/journaux_annee/1977/333/faits_divers>
 5. <https://en.wikipedia.org/wiki/Albert_Spaggiari>
 6. <https://www.breizh-info.com/2015/05/16/26124/cinema-7-films-a-voir-ou-revoir-sur-les-gangsters-made-in-france/>
-1. <https://www.tendanceouest.com/actualite-262655-plus-de-40-ans-apres-le-magot-du-casse-du-siecle-a-portee-des-juges>
-2. <https://www.breizh-info.com/2015/05/16/26124/cinema-7-films-a-voir-ou-revoir-sur-les-gangsters-made-in-france/>
-3. <https://en.wikipedia.org/wiki/Albert_Spaggiari>
-4. <https://www.moneyvox.fr/banque/actualites/83225/video-braquage-de-banque-ces-5-casses-qui-ont-marque-histoire>
-5. 
