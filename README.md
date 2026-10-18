@@ -3,13 +3,13 @@
 
 ## Introduction
 
-Dans la nuit du 16 au 17 juillet 1976, une équipe de cambrioleurs pénètre dans la salle des coffres de la Société Générale de Nice en passant par les égouts de la ville. Surnommée « le casse du siècle » par la presse, cette affaire se distingue par son audace, par l'absence de violence et par le fait que le butin n'a jamais été retrouvé [2]. Elle doit aussi sa notoriété à son organisateur présumé, Albert Spaggiari, qui s'évade spectaculairement du bureau du juge d'instruction en mars 1977.
+Dans la nuit du 16 au 17 juillet 1976, une équipe de cambrioleurs pénètre dans la salle des coffres de la Société Générale de Nice en passant par les égouts de la ville. Surnommée « le casse du siècle » par la presse, cette affaire se distingue par son audace, par l'absence de violence et par le fait que le butin n'a jamais été retrouvé [1]. Elle doit aussi sa notoriété à son organisateur présumé, Albert Spaggiari, qui s'évade spectaculairement du bureau du juge d'instruction en mars 1977.
 
 ## 1. La préparation du casse
 
-Albert Spaggiari est un ancien combattant d'Indochine qui tient alors un petit magasin de développement photographique à Nice [6]. Il imagine un plan fondé sur une particularité du site : l'agence bancaire se trouve à proximité immédiate du réseau d'égouts de la ville [5].
+Albert Spaggiari est un ancien combattant d'Indochine qui tient alors un petit magasin de développement photographique à Nice [2]. Il imagine un plan fondé sur une particularité du site : l'agence bancaire se trouve à proximité immédiate du réseau d'égouts de la ville [3].
 
-Avec son équipe, il creuse un tunnel d'environ huit mètres reliant les égouts à la salle des coffres [1]. Les sources divergent sur la durée des travaux : deux mois pour certaines, trois mois pour d'autres. Le week-end du 17 au 18 juillet 1976, la banque étant fermée, l'équipe accède enfin à la salle des coffres [6].
+Avec son équipe, il creuse un tunnel d'environ huit mètres reliant les égouts à la salle des coffres [4]. Les sources divergent sur la durée des travaux : deux mois pour certaines, trois mois pour d'autres. Le week-end du 17 au 18 juillet 1976, la banque étant fermée, l'équipe accède enfin à la salle des coffres [6].
 
 ## 2. Le casse et la découverte des faits
 
@@ -47,5 +47,8 @@ Certaines données varient selon les sources, notamment le montant exact du buti
 4. <https://www.larousse.fr/archives/journaux_annee/1977/333/faits_divers>
 5. <https://en.wikipedia.org/wiki/Albert_Spaggiari>
 6. <https://www.breizh-info.com/2015/05/16/26124/cinema-7-films-a-voir-ou-revoir-sur-les-gangsters-made-in-france/>
-
-*Sources consultées le 17 octobre 2026.*
+1. <https://www.tendanceouest.com/actualite-262655-plus-de-40-ans-apres-le-magot-du-casse-du-siecle-a-portee-des-juges>
+2. <https://www.breizh-info.com/2015/05/16/26124/cinema-7-films-a-voir-ou-revoir-sur-les-gangsters-made-in-france/>
+3. <https://en.wikipedia.org/wiki/Albert_Spaggiari>
+4. <https://www.moneyvox.fr/banque/actualites/83225/video-braquage-de-banque-ces-5-casses-qui-ont-marque-histoire>
+5. 
