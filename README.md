@@ -12,6 +12,7 @@ Albert Spaggiari est un ancien combattant d'Indochine qui tient alors un petit m
 ![L'avenue Jean-Médecin à Nice, où se trouve l'agence de la Société Générale](https://commons.wikimedia.org/wiki/Special:FilePath/Avenue_Jean-M%C3%A9decin,_Nice,_Provence-Alpes-C%C3%B4te_d%27Azur,_France_-_panoramio.jpg?width=800 "L'avenue Jean-Médecin à Nice")
 
 
+
 Avec son équipe, il creuse un tunnel d'environ huit mètres reliant les égouts à la salle des coffres [4]. Les sources divergent sur la durée des travaux : deux mois pour certaines, trois mois pour d'autres. Le week-end du 17 au 18 juillet 1976, la banque étant fermée, l'équipe accède enfin à la salle des coffres [6].
 
 ## 2. Le casse et la découverte des faits
@@ -23,6 +24,8 @@ Les auteurs laissent sur place un message resté célèbre : « Sans arme, ni ha
 ## 3. L'enquête et l'arrestation
 
 L'enquête progresse grâce à une erreur d'un des membres du gang : un artisan mécanicien est arrêté en octobre après avoir tenté de négocier des bons du Trésor dont les numéros avaient été enregistrés [4]. Le 27 octobre 1976, Albert Spaggiari est à son tour arrêté. Il reconnaît le 30 octobre être l'instigateur du casse [4].
+
+![Course-poursuite entre un policier et Mr Nevot](poursuite.jpg "La cavale")
 
 ## 4. L'évasion du 10 mars 1977
 
