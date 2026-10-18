@@ -46,8 +46,6 @@ Certaines données varient selon les sources, notamment le montant exact du buti
 
 ## Sources
 
-## Sources
-
 1. <https://www.moneyvox.fr/banque/actualites/83225/video-braquage-de-banque-ces-5-casses-qui-ont-marque-histoire>
 2. <https://www.tendanceouest.com/actualite-262655-plus-de-40-ans-apres-le-magot-du-casse-du-siecle-a-portee-des-juges>
 3. <https://www.dhnet.be/actu/monde/2014/03/18/france-une-banque-devalisee-en-creusant-un-tunnel-6F3NTAEJXFHU5JNRUWK765FXWY/>
